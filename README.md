@@ -1,9 +1,9 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Azure, Snowflake, Machine Learning , DL , PostgresSQL , PowerBI , Tableau , LookerStudio , ETL , SSIS ,SSAS ,SSRS
-
+[My Git Hub Ripo (Projects) ](https://github.com/khaledshakerrr)
 ## Education
-- Pre-M.S., Physics | The University of Texas at Dallas (August 2022_)								       		
+- Pre-M.S., Physics | The University of Mansoura (August 2022_)								       		
 - Intensive Training Program  "Business Intelligence Track | Information Technology Institute (ITI) (May 2024_)	 			        		
 - B.S., Applied Medical Sciences | October 6 University.  (November 2021_)  with GPA : 3.9 "Top %5 of my class"
 

@@ -1,11 +1,11 @@
 title: Khaled Shaker
 logo: /profile.png
-description: Highly skilled and motivated Data Scientist with a strong background in leveraging Python,
-SQL, and data warehousing to develop and maintain ETL & ELT pipelines. Experienced in utilizing Microsoft ETL tools
-such as SSIS and SSAS to optimize data processing and analysis. Proficient in machine learning algorithms, including time series
-data algorithms like ARIMA and PROPHET. Certified Data Scientist from the 365 Data Science Platform, demonstrating a commitment to continuous
-learning and professional development. Possesses an agile mindset, problem-solving abilities, and critical thinking skills honed through participatio
-n in the McKinsey Forward program. Successfully led teams during college class projects and entrepreneurship workshops at ALX Founder Academy.
-Passionate about solving real-world problems through data-driven approaches.
-show_downloads: true
+# description: Highly skilled and motivated Data Scientist with a strong background in leveraging Python,
+# SQL, and data warehousing to develop and maintain ETL & ELT pipelines. Experienced in utilizing Microsoft ETL tools
+# such as SSIS and SSAS to optimize data processing and analysis. Proficient in machine learning algorithms, including time series
+# data algorithms like ARIMA and PROPHET. Certified Data Scientist from the 365 Data Science Platform, demonstrating a commitment to continuous
+# learning and professional development. Possesses an agile mindset, problem-solving abilities, and critical thinking skills honed through participatio
+# n in the McKinsey Forward program. Successfully led teams during college class projects and entrepreneurship workshops at ALX Founder Academy.
+# Passionate about solving real-world problems through data-driven approaches.
+# show_downloads: true
 theme: jekyll-theme-minimal

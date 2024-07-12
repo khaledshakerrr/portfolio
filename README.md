@@ -8,14 +8,14 @@
 - B.S., Applied Medical Sciences | October 6 University.  (November 2021_)  with GPA : 3.9 "Top %5 of my class"
 
 ## Projects
-### HR Attrition Application
+###HR Attrition Application
 [HR Application](https://hrattritionprediction.streamlit.app/)
 1. Developed an HR attrition prediction app using Catboost Algorithm, achieving **96%** accuracy.
 2. Created Tableau ,Excel dashboards and EDA using pandas , matplotlib and plotly.express for HR analytics, demonstrating data visualization skills.
 
 ![Attrition HR ](/img/attrition.jpeg)
 
-### Company Analysis Invoices
+###Company Analysis Invoices
 [Company Analysis Invoices](https://companysales-analysis.streamlit.app/)
 1. Identify cost-saving opportunities by analyzing supplier performance and negotiating better terms.
 2. Created an interactive Power BI dashboard showcasing key business metrics.
@@ -24,7 +24,7 @@
 
 ![Company Analysis](/img/company.jpeg)
 
-## Data Mart Project (AdventureWorks) ETL using SSIS
+##Data Mart Project (AdventureWorks) ETL using SSIS
 - Designed and implemented ETL processes using SSIS.
 - Leveraged Kimball and Data Vault methodologies for robust data warehousing modeling.
 - Demonstrated expertise in data integration, transformation, and architecture.

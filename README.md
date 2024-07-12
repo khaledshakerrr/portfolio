@@ -29,6 +29,8 @@
 - Leveraged Kimball and Data Vault methodologies for robust data warehousing modeling.
 - Demonstrated expertise in data integration, transformation, and architecture.
 - **Skills Highlight**: SSIS, Kimball, Data Vault
+- ![Data Mart](/img/datamart.png)
+
 
 ### Heart-Disease-Prediction
 - Developed a machine learning model to predict heart disease risk.

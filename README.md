@@ -50,8 +50,8 @@ Guided a team during entrepreneurship workshops, facilitating ideation, problem-
 ### Certficates
 1. Certifies of English Language Proficiency Test (ELPT) Equivalent
 to the TOEFL test
-2.Certified Data Scientist (365 Data Science)
-3.Certified Data Scientist (Machinfy Diploma)
+2. Certified Data Scientist (365 Data Science)
+3. Certified Data Scientist (Machinfy Diploma)
 4. Completed McKinsey Forward Program
 
 

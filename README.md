@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, SQL, Azure, Snowflake, Machine Learning , DL , PostgresSQL , PowerBI , Tableau , LookerStudio , ETL , SSIS ,SSAS ,SSRS
 [My Git Hub Ripo (Projects) ](https://github.com/khaledshakerrr)
+____________________________________________________________________________________________________________________
 ## Education
 - Pre-M.S., Physics | The University of Mansoura (August 2022_)								       		
 - Intensive Training Program  "Business Intelligence Track | Information Technology Institute (ITI) (May 2024_)	 			        		
@@ -10,7 +11,7 @@
 ## Projects
 ____________________________________________________________________________________________________________________
 ### HR Attrition Application
-[HR Application](https://hrattritionprediction.streamlit.app/)
+[HR Attrition Application](https://hrattritionprediction.streamlit.app/)
 1. Developed an HR attrition prediction app using Catboost Algorithm, achieving **96%** accuracy.
 2. Created Tableau ,Excel dashboards and EDA using pandas , matplotlib and plotly.express for HR analytics, demonstrating data visualization skills.
 

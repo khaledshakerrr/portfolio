@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Azure, Snowflake, Machine Learning , DL , PostgresSQL , PowerBI , Tableau , LookerStudio , ETL , SSIS ,SSAS ,SSRS
-[My Git Hub Ripo (Projects) ](https://github.com/khaledshakerrr)
+[My Git Hub Ripo (Projects) ](https://github.com/khaledshakerrr) <br>
 ____________________________________________________________________________________________________________________
 ## Education
 - Pre-M.S., Physics | The University of Mansoura (August 2022_)								       		

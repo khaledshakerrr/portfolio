@@ -45,7 +45,7 @@ ________________________________________________________________________________
 1. Developed a machine learning model to predict heart disease risk. <br>		
 2. Leveraged algorithms such as logistic regression, decision trees, and random forests. <br>		
 3. Demonstrated proficiency in feature engineering, model evaluation, and health analytics. <br>		
-- **Skills Highlight**: Machine Learning, Python (scikit-learn), pandas , matplotlib <br>		
+- Skills Highlight: Machine Learning, Python (scikit-learn), pandas , matplotlib <br>		
 ---------------------------------------------------------------------------------------------------------------------
 ### Covid-19 EDA
 1. Conducted in-depth analysis of pandemic data, revealing trends, hotspots, and impact factors. <br>		
